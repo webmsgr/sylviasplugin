@@ -38,11 +38,11 @@ def flaskbb_tpl_before_navigation():
 
 # plugin settings
 SETTINGS = {
-    "foobar": {
+    "pecks": {
         "value": 10,
         "value_type": SettingValueType.integer,
-        "name": "Foobar Number",
-        "description": "The number of foo in bars.",
-        "extra": {"min": 1},
+        "name": "pecks",
+        "description": "the number of pecks i give",
+        "extra": {"max": 1},
     },
 }
