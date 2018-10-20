@@ -9,7 +9,7 @@ Installation
 ------------
 
 Install *flaskbb-plugin-slyv* with
-``pip install wackery``
+``pip install https://github.com/webmsgr/sylviasplugin/archive/master.zip``
 
 
 License
