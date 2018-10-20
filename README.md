@@ -9,9 +9,9 @@ Installation
 ------------
 
 Install *flaskbb-plugin-slyv* with
-``pip install flaskbb-plugin-slyv``
+``pip install wackery``
 
 
 License
 -------
-This project is licensed under the terms of the [Not open source](/LICENSE).
+This project is licensed under the terms of the [MIT](/LICENSE).
