@@ -1,0 +1,4 @@
+graft slyv/templates
+graft slyv/translations
+
+global-exclude *.pyc __pycache__ .keep
